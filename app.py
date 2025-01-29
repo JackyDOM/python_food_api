@@ -6,7 +6,6 @@ from sea import get_sea
 from temple import get_temple
 from cafe import get_cafe
 
-
 app = Flask(__name__)
 CORS(app)
 
